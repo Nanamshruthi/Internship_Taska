@@ -24,27 +24,36 @@ future-interns-tasks/
 ├── task-1-landing-page/
 │ ├── index.html
 │ ├── style.css
-│
+
+
+
 ├── task-2-portfolio/
 │ ├── index.html
 │ ├── style.css
 │ ├── script.js
-│
+
+
+
 ├── task-3-temperature-converter/
 │ ├── index.html
 │ ├── style.css
 │ ├── script.js
-│
+
+
+
 ├── task-4-calculator/
 │ ├── index.html
 │ ├── style.css
 │ ├── script.js
-│
+
+
+
 ├── task-5-to-do-app/
 │ ├── index.html
 │ ├── style.css
 │ ├── script.js
-│
+
+
 └── README.md
 
 
